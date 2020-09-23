@@ -1,0 +1,8 @@
+Super Snakes - By Simon Price - 14 May 2000
+
+Wrote this game today as an interesting experiment with AI. The idea was to make snakes that would intelligently avoid crashing as they wriggled along. The game runs very fast, depending on your computer and the AI settings. The fun bit is that you can change (and save) the AI settings, and so make the snakes behave in different ways. When a snake crashes, it gets shorter and the snake that it crashed into becomes longer. As you can imagine, it is a battle to the death and the last snake left squirming wins the game. Up to 2 players can be human controlled. The green snake (player 1) uses the arrow keys. The red snake (player 2) uses W, S , Z , A to turn N, E , S , W respectively. 
+
+www.VBgames.co.uk
+
+I spent just one day on this game. If you would like to see more games of mine, visit my website : www.VBgames.co.uk - there are some really cool games with full source code to download there. Also, I am looking to increase the size of the site by getting people to send their own VB games in. If you have a game written in VB, then please send it to : gamesubmission@VBgames.co.uk and I will put it on the website. In the email supply your name (so I can give due credit), email (optional), game in .zip file, any other info (optional) and a picture of your game (optional). I look foward to seeing your VB games!
+                                                          Simon Price
